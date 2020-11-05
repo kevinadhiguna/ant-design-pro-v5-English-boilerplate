@@ -71,7 +71,7 @@ const codeMessage = {
   405: 'The request method is not allowed.', // Method not Allowed
   406: 'The request format is not available.', // Not Acceptable
   410: 'The requested source is permanently deleted and will nolonger be available.', // Gone
-  422: 'A validation error occured when creating an object.', 
+  422: 'A validation error occured when creating an object.',
   500: 'An error occured in the server, please check the server', // Internal Server Error
   502: 'Gateway error.', // Bad Gateway
   503: 'The service is unavailable.', // Service Unavailable

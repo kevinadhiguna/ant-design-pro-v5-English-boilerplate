@@ -133,7 +133,13 @@ const UpdateForm: React.FC<UpdateFormProps> = (props) => {
         <FormItem
           name="desc"
           label="Rule Description"
-          rules={[{ required: true, message: 'Please enter a rule description of at least 5 characters !', min: 5 }]}
+          rules={[
+            {
+              required: true,
+              message: 'Please enter a rule description of at least 5 characters !',
+              min: 5,
+            },
+          ]}
         >
           <TextArea rows={4} placeholder="Please enter at least 5 characters" />
         </FormItem>

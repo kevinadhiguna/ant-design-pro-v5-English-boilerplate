@@ -82,7 +82,9 @@ const Login: React.FC<{}> = () => {
               <span className={styles.title}>Ant Design</span>
             </Link>
           </div>
-          <div className={styles.desc}>Ant Design is the most influential Web design specification in Xihu District</div>
+          <div className={styles.desc}>
+            Ant Design is the most influential Web design specification in Xihu District
+          </div>
         </div>
 
         <div className={styles.main}>
