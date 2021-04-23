@@ -85,3 +85,5 @@ npm test
 ## More
 
 You can view full document on Ant Design Pro [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/ant-design-pro-v5-English-boilerplate)](https://github.com/kevinadhiguna)
